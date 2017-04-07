@@ -15,7 +15,7 @@ mSearchRequester.on('listening', function () {
     });
 });
 
-mSearchRequester.bind(1900, '192.168.0.14');
+mSearchRequester.bind(1900, '0.0.0.0');
 setTimeout(function(){
     mSearchRequester.close();
     process.exit();
