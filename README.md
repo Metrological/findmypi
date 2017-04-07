@@ -1,5 +1,3 @@
 # findmypi
-Simple Discovery of the Pi using WPE DIAL
-
-    npm install
+Simple Discovery of the Pi using WPE
     node findmypi.js
