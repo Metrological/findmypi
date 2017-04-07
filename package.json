@@ -1,11 +1,8 @@
 {
-	"name": "findmypi",
-	"version": "1.0.0",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/metrological/findmypi"
-	},
-	"dependencies": {
-		"dial": "0.0.5"
-	}
+  "name": "findmypi",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metrological/findmypi"
+  }
 }
